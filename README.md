@@ -80,5 +80,5 @@ Their platform had grown from **5K → 50K+ users in under 6 months**, and the m
 We design scalable, secure Cloud & DevOps platforms across **AWS, Azure, GCP, and Alibaba Cloud**.  
 
 📌 **Website:** [cloudiehub.com](https://cloudiehub.com)  
-✉️ **Email:** hello@cloudiehub.com  
+✉️ **Email:** contact@cloudiehub.com  
 
